@@ -6,4 +6,4 @@ This is my responsive website, inspired by a YouTube video but built entirely fr
    
 # Additional Information 💗
 Project completion date: August 20, 2023.
-HTML and CSS Project.
+HTML, JS, and CSS Project.
